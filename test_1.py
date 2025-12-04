@@ -1,4 +1,3 @@
-print("hello_python")
+print("new_branch")
 
-
-print("hello_not_ok")
+print("hello_oto_ke")
